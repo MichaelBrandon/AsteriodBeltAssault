@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/Shot2.wav</SourceFile>
+  <SourceTime>2019-02-06T14:33:06.1145461-05:00</SourceTime>
+  <DestFile>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/bin/Windows/Shot2.xnb</DestFile>
+  <DestTime>2019-02-06T14:45:32.6310067-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/Explosion1.wav</File>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/Explosion2.wav</File>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/Explosion3.wav</File>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/Explosion4.wav</File>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/Shot1.wav</File>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/Shot2.wav</File>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/SpriteSheet.png</File>
+    <File>C:/Users/001270108/Desktop/AsteriodBeltAssault/AsteriodBeltAssault/AsteriodBeltAssault/Content/TitleScreen.png</File>
+  </SourceFiles>
+</SourceFileCollection>
